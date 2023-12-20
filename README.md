@@ -9,12 +9,6 @@ Data Analytics
 ## Domain 
 Environmental Science
 
-## Technology 
-Data Analytics
-
-## Domain 
-Environment Science 
-
 ## Programming language 
 Python 
 
